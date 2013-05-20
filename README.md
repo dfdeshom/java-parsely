@@ -2,7 +2,7 @@ Parsely API Java Binding
 ========================
 
 This library provides a pure Java interface to the Parsely API. The
-documentation on which this binding is based is located at http://parsely.com/api/api\_ref.html
+documentation on which this binding is based is located at http://parsely.com/api/api_ref.html
 
 Getting the Code
 ----------------
